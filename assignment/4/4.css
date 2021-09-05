@@ -1,0 +1,25 @@
+body > img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+table {
+  border: 1px dashed gray;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 5px;
+  text-align: left;
+  background-color: red;
+  color: white;
+}
+
+td {
+  padding: 5px;
+}
+
+.email {
+  font-weight: bold;
+}
